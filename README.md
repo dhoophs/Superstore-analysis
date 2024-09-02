@@ -1,1 +1,1 @@
-# Superstore-analysis
+# Store-analysis
